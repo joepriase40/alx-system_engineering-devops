@@ -1,4 +1,2 @@
 #!/bin/bash
-echo BEST=School
-echo BEST=Schoo:wq
-l
+echo BEST=School | BEST=School
